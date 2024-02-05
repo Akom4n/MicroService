@@ -1,0 +1,7 @@
+package com.akom4n.hrworker.entities;
+
+public class Worker {
+
+	private Long id;
+	private String name;
+}

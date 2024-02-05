@@ -1,0 +1,5 @@
+package com.akom4n.hrworker.entities;
+
+public class Worker {
+
+}

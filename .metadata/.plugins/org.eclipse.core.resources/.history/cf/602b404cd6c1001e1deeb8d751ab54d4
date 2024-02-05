@@ -1,0 +1,5 @@
+package com.akom4n.hrworker.repositories;
+
+public interface WorkerRepository extends JpaRepository {
+
+}
