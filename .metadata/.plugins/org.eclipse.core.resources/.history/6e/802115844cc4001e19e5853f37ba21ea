@@ -1,0 +1,8 @@
+package com.akom4n.hrpayroll.resources;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class PaymentResource {
+
+}

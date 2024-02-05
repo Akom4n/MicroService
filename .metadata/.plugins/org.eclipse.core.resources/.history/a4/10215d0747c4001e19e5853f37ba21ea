@@ -1,0 +1,5 @@
+package com.akom4n.hrpayroll.entities;
+
+public class Payment {
+
+}
